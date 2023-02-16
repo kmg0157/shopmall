@@ -1,0 +1,12 @@
+/*
+쇼핑몰 고객정보 관리 스타일 시트
+*/
+
+table{width:600px; text-align: center;border: 2px solid black; border-collapse: collapse;}
+caption{font-size: 20pt; font-weight: bold;}
+
+th,td{border: 1px solid gray; padding: 3px;}
+th{width:25%;background-color: #CFD0ED;}
+td{background-color: #FAFAEE; text-align: left;}
+.msg_red{font-size: 10pt; color: red;}
+.msg_blue{font-size: 10pt;color: blue;}
